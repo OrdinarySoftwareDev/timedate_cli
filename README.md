@@ -6,6 +6,8 @@ Created as a project to kill some time.
 
 # How to use
 It is recommended to run the code in a windows terminal (cmd.exe)
+Make sure you have ruby installed on your computer before running the program.
+
 Run the code and enter your desired location. This can be a city name, world coordinates, or a whole country (shows summary for entire said country) For Northern America, you can use states instead of countries (ex. Huntsville, Alabama; San Mateo, California).
 
 ![image](https://user-images.githubusercontent.com/109431644/179367610-927315a9-9276-473b-8fa7-c8c7616dfce6.png)
