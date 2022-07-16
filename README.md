@@ -5,8 +5,9 @@ timedate_rb is a simple program that shows you data about a certain location, wr
 Created as a project to kill some time.
 
 # How to use
-It is recommended to run the code in a windows terminal (cmd.exe)
-Make sure you have ruby installed on your computer before running the program.
+
+It is recommended to run the code in a windows terminal (cmd.exe).
+Make sure you have Ruby installed on your computer before running the code.
 
 Run the code and enter your desired location. This can be a city name, world coordinates, or a whole country (shows summary for entire said country) For Northern America, you can use states instead of countries (ex. Huntsville, Alabama; San Mateo, California).
 
